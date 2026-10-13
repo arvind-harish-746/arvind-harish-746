@@ -9,7 +9,7 @@ I am an AI & Machine Learning engineering student at BNM Institute of Technology
 *   **Focus:** Autonomous robotics, network security, and AI-driven automation.
 
 ### Professional Experience
-*   **Intern at CYBOTZ (May 24, 2026 – June 24, 2026):** Managed brand identity and promotional visual output, including the development of high-engagement video content and branding strategies.
+*   **Intern at CYBOTZ (May 24, 2026 – till date):** Managed brand identity and promotional visual output, including the development of high-engagement video content and branding strategies.
 
 ### Featured Projects
 *   **Canvas-ML** (Last commit: May 18, 2026): A visual, no-code pipeline builder for rapid machine learning development.
@@ -20,4 +20,4 @@ I am an AI & Machine Learning engineering student at BNM Institute of Technology
 *   Building scalable solutions for real-world problems through hackathons (Team Unhinged & Team Odyssey).
 
 ### Get In Touch
-*   **Email:** sesha.sai.kms@gmail.com
+*   **Email:** kms.sesha.sai@gmail.com
